@@ -1,0 +1,137 @@
+[
+    {
+        "id": 610,
+        "company_name": "Mochi Shop",
+        "default_billing_address_id": 700,
+        "default_shipping_address_id": 752,
+        "addresses": [
+            {
+                "id": 700,
+                "address1": "123 Fake Street",
+                "address2": "",
+                "city": "New York",
+                "state": "NY",
+                "postal_code": "92705",
+                "last_name": "Boblaw",
+                "first_name": "Bob",
+                "phone": "",
+                "country": "US",
+                "email": "bob@mochi-shop.com",
+                "company_name": "Mochi Shop"
+            },
+            {
+                "id": 752,
+                "address1": "234 Main Rd",
+                "address2": "Suit 123",
+                "city": "Santa Ana",
+                "state": "CA",
+                "postal_code": "92705",
+                "last_name": "AP",
+                "first_name": "Department",
+                "phone": "",
+                "country": "US",
+                "email": "ap@mochi-shop.com",
+                "company_name": "Mochi Shop"
+            }
+        ]
+    },
+    {
+        "id": 355,
+        "company_name": "Modern Coffee Co.",
+        "default_billing_address_id": 221,
+        "default_shipping_address_id": 221,
+        "addresses": [
+            {
+                "id": 221,
+                "address1": "555 E 15th St",
+                "address2": "",
+                "city": "Seattle",
+                "state": null,
+                "postal_code": null,
+                "last_name": "Wilson",
+                "first_name": "Jane",
+                "phone": "",
+                "country": "US",
+                "email": "jane@modern-coffee.com",
+                "company_name": "Modern Coffee Co."
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "company_name": "Moe's Cafe",
+        "default_billing_address_id": 221,
+        "default_shipping_address_id": 223,
+        "addresses": [
+            {
+                "id": 221,
+                "address1": "100 Very very very very very very very very very very long street name",
+                "address2": "",
+                "city": "Seattle",
+                "state": "WA",
+                "postal_code": "10033",
+                "last_name": "Jenkins",
+                "first_name": "Bert",
+                "phone": "",
+                "country": "US",
+                "email": "hello@moescafe.com",
+                "company_name": "Moe's Cafe"
+            },
+            {
+                "id": 222,
+                "address1": "128 Warehouse 12D",
+                "address2": "",
+                "city": "Seattle",
+                "state": "WA",
+                "postal_code": "12345",
+                "phone": "",
+                "country": "US",
+                "email": "hello@moescafe.com",
+                "company_name": "Moe's Cafe"
+            },
+            {
+                "id": 223,
+                "address1": "500 Minor St",
+                "address2": "",
+                "city": "Seattle",
+                "state": "WA",
+                "postal_code": "10000",
+                "last_name": "Jenkins",
+                "first_name": "Bert",
+                "phone": "",
+                "country": "US",
+                "email": "hello@moescafe.com",
+                "company_name": "Moe's Cafe"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "company_name": "Mom's Soup Kitchen",
+        "default_billing_address_id": null,
+        "default_shipping_address_id": null,
+        "addresses": [
+            {
+                "id": 223,
+                "address1": "500 Jumble Way",
+                "address2": "",
+                "city": "Pittsburgh",
+                "state": "PA",
+                "postal_code": "22222",
+                "last_name": "Don Dominique Aquarius John Russell Jr. III",
+                "first_name": "Hwang",
+                "phone": "+422 222 1103",
+                "country": "US",
+                "email": "don@hwang.com",
+                "company_name": "Mom's Soup Kitchen"
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "company_name": "Mountain House",
+        "default_billing_address_id": null,
+        "default_shipping_address_id": null,
+        "addresses": []
+    }
+]

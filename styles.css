@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Calibre';
+  src: url('/assets/Fonts/calibre-regular.woff2') format('woff');
+}
+
+.lineItemSection{
+  border: 1px solid grey;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: Calibre;
+}
+
+table {
+  border: 1px solid black;
+}
+
+#deleteButton {
+  border: 0px;
+  background: none;
+}
+
+.amount{
+  border: none;
+}
